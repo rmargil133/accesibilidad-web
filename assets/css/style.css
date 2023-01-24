@@ -7,7 +7,7 @@
     background: #E8F8F5;
 }
 .bg-verde-oscuro{
-    background: #48C9B0;
+    background: #11596e;
 }
 
 
@@ -53,7 +53,7 @@ header{
     padding: 5px 10px;
 }
 .cabecera-top a{
-    color: #000000;
+    color: #FFFFFF;
 }
 .cabecera-top > div{
     max-width: 200px;
@@ -186,7 +186,7 @@ main{
 .donar-cabecera h1,
 .detalle-cabecera  h1{
     color: #fff;
-    background: #48C9B0;
+    background: #11596e;
 }
 
 .detalle-cabecera  h2, .detalle-cabecera span{
