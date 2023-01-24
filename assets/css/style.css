@@ -198,7 +198,9 @@ main{
     margin-top: 10px;
 }
 
-tbody tr:nth-child(even) { background: #E8F8F5 }
+tbody tr th:first-child{
+    color: white;
+}
 /* PIE DE PÁGINA  */
 
 footer{
