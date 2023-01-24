@@ -191,12 +191,12 @@ main{
 
 .detalle-cabecera  h2, .detalle-cabecera span{
     color: #fff;
+    background: #11596e;
     width: 100%;
 }
 .detalle-cabecera button{
     margin-top: 10px;
 }
-
 
 tbody tr:nth-child(even) { background: #E8F8F5 }
 /* PIE DE PÁGINA  */
