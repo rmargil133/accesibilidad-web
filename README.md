@@ -3,6 +3,8 @@
 
 Este proyecto pertenece a la práctica de Accesibilidad Web.
 
+Enlace a la página desplegada: https://rmargil133.github.io/accesibilidad-web/
+
 ## Módulo Diseño de Interfaces Web 🎨 
 
 Práctica - Accesibilidad Web
