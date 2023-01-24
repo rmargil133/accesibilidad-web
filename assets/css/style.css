@@ -15,7 +15,7 @@
     color: #E8F8F5;
 }
 .font-verde-oscuro{
-    color: #48C9B0;
+    color: #267263;
 }
 a{
     color: #104c9b;
@@ -223,6 +223,9 @@ footer .pie h2, footer .pie a,footer .pie div{
 footer .rrss{
     border-bottom: solid thin #E5E7E9 ;
     padding-bottom: 20px;
+}
+footer .rrss > span{
+    display: none
 }
 footer .pie a.logo{
     border-top: solid thin #E5E7E9 ;
